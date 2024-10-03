@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node.Js and Golang**
 
-- 👨‍💻 All of my projects are available at [https://bryanjericho.github.io/Portofolio/](https://bryanjericho.github.io/Portofolio/)
+- 👨‍💻 All of my projects are available at [https://bryanportofolio.vercel.app/](https://bryanportofolio.vercel.app/)
 
 - 💬 Ask me about **Javascript**
 
