@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanjericho&label=Profile%20views&color=0e75b6&style=flat" alt="bryanjericho" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryanjericho" alt="bryanjericho" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [SebarBuku](https://github.com/BryanJericho/SebarBuku)
@@ -31,7 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanjericho&show_icons=true&theme=dark&locale=en&layout=compact" alt="bryanjericho" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanjericho&show_icons=true&locale=en" alt="bryanjericho" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanjericho&show_icons=true&theme=dark&locale=en" alt="bryanjericho" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryanjericho&theme=dark" alt="bryanjericho" /></p>
-
