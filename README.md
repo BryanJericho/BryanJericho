@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [SebarBuku](https://github.com/BryanJericho/SebarBuku)
+- 🔭 I’m currently working on [Todolistapp](https://github.com/BryanJericho/todolistapp)
 
 - 🌱 I’m currently learning **Typescript and Golang**
 
