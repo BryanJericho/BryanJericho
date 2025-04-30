@@ -15,16 +15,15 @@
 ---
 
 ### 🧠 Currently Learning
-- Reverse Engineering
-- Exploit Development
+- Web Exploitation
+- Cryptography
 - Cloud Security
 
 ---
 
 ### 📫 Reach Me
-[![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://linkedin.com/in/username)
-[![Twitter](https://img.shields.io/badge/-Twitter-333?style=flat&logo=twitter)](https://twitter.com/username)
+[![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=gmail&logoColor=white)](mailto:bryanpanggalo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://linkedin.com/in/bryanjericho)
 
 ---
 
