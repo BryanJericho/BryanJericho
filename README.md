@@ -33,6 +33,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://linkedin.com/in/bryanjericho)
 
 ---
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanJericho&show_icons=true&theme=tokyonight)
