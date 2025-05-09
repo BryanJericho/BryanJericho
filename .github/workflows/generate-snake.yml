@@ -13,7 +13,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Configure git safe directory (fix for error 128)
+      - name: Configure git safe directory (fix error 128)
         run: git config --global --add safe.directory '*'
 
       - name: Generate GitHub Snake
@@ -24,10 +24,18 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      - name: List generated files
+        run: |
+          echo "==> File output:"
+          ls -R dist || echo "Folder dist not found"
+          echo "==> SVG preview:"
+          cat dist/github-snake.svg || echo "SVG not found"
+
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "Deploy snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
