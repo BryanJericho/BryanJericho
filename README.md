@@ -35,6 +35,6 @@
 ---
 ### 🐍 Contribution Snake
 
-![Contribution Snake](https://raw.githubusercontent.com/bryanjericho/snk/output/github-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/BryanJericho/BryanJericho/output/github-snake.svg)
 
 
