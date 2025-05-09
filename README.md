@@ -33,3 +33,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://linkedin.com/in/bryanjericho)
 
 ---
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/NAMA-USER/github-snake/blob/output/github-snake.svg)
+
