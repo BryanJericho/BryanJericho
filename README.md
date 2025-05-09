@@ -33,8 +33,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://linkedin.com/in/bryanjericho)
 
 ---
-### 🐍 Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/BryanJericho/BryanJericho/output/github-snake.svg)
 
 
