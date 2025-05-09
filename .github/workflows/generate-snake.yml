@@ -13,7 +13,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      - name: Configure git safe directory (fix for error 128)
+        run: git config --global --add safe.directory '*'
+
+      - name: Generate GitHub Snake
         uses: Platane/snk@v3
         with:
           github_user_name: BryanJericho
