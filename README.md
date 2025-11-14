@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bryan Jericho</h1>
 <p align="center">
-  🕵️ CTF Player | 🧑‍💻 Software Engineer | 🔧 Builder
+  🕵️ Data Scientist | 🧑‍💻 Software Engineer | 🔧 Builder
 </p>
 
 ---
