@@ -22,9 +22,9 @@
 ---
 
 ### 🧠 Currently Learning
-- Web Exploitation
+- AI
 - Cryptography
-- Cloud Security
+- Data stuff
 
 ---
 
