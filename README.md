@@ -33,7 +33,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://linkedin.com/in/bryanjericho)
 
 ---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanjericho&show_icons=true&locale=en&layout=compact" alt="bryanjericho" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanjericho&show_icons=true&locale=en&layout=compact" alt="bryanjericho" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanjericho&show_icons=true&locale=en" alt="bryanjericho" /></p>
 ---
 
 
