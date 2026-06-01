@@ -1,37 +1,49 @@
-<h1 align="center">Hi, I'm Bryan Jericho</h1>
-<p align="center">
-  🕵️ Data Scientist | 🧑‍💻 Software Engineer | 🔧 Builder
-</p>
+<h2 align="left">Hi 👋! My name is Bryan Jericho and I'm a Data Scientist</h2>
 
----
+###
 
-### 🧰 Tools & Languages
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
-![Go](https://img.shields.io/badge/-Golang-333?style=flat&logo=go)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
-![Remix](https://img.shields.io/badge/-Remix-333?style=flat&logo=remix)
-![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnu-bash)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-333?style=flat&logo=burpsuite)
-![IDA Pro](https://img.shields.io/badge/-IDA_Pro-333?style=flat)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-### 🧠 Currently Learning
-- AI
-- Cryptography
-- Data stuff
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
----
+###
 
-### 📫 Reach Me
-[![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=gmail&logoColor=white)](mailto:bryanpanggalo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://linkedin.com/in/bryanjericho)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
+###
 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###
