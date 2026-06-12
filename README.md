@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Bryan Jericho and I'm a Data Scientist</h2>
+<h2 align="left">Hi! My name is Bryan Jericho and I'm a Data Scientist and ML Engineer</h2>
 
 
 
