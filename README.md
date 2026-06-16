@@ -30,3 +30,5 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjericho&theme=tokyonight)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ojw9zl8hpdg089jv86uzrrxqz)
